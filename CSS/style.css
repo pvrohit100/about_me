@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(aa.jpg);
+
+    width: 110%;
+    height: 180px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.banner h1{
+   color: #fff;
+   
+   font-size: 500%;
+   text-align: center;
+}
+
